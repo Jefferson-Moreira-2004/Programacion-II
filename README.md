@@ -40,5 +40,6 @@
 <p>Si no tienes Pygame instalado, puedes hacerlo ejecutando el siguiente comando en CMD:</p>
 <pre><code>pip install pygame</code></pre>
 <h2>Animación y Captura de la aplicación🤩</h2>
-<img scr="https://github.com/user-attachments/assets/d27c3fa8-fcd4-4f85-9c04-1a3a9cb517e9" width="100">
+<img scr="https://github.com/Jefferson-Moreira-2004/Programacion-III/issues/1#issue-2771573564" width="100">
+<img scr="https://github.com/user-attachments/assets/24b2c8a0-0589-4f16-ae30-ee73f0f080c8" width="100">
 
